@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GRID</string>
+
+    <string-array name="activities">
+        <item> </item>
+        <item>sleep</item>
+        <item>school</item>
+        <item>hygiene</item>
+        <item>exercise</item>
+        <item>media</item>
+        <item>hobbies</item>
+        <item>social</item>
+        <item>chores</item>
+        <item>work</item>
+    </string-array>
+
+    <string name="time">TIME</string>
+    <string name="title">ACTIVITY BREAKDOWN</string>
+    <string name="share">SHARE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
